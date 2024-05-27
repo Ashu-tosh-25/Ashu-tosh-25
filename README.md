@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ashu-tosh-25
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Python, PowerBI, GCP
+- 👋 Hi, I’m Ashutosh
+- 👀 I’m a Data Analyst
+- 🌱 My skills are SQL, Python, PowerBI, GCP
 - 📫 How to reach me - ashutosh.3922@gmail.com
 
 <!---
